@@ -1,0 +1,3 @@
+[submodule "Matrix.Core"]
+	path = Matrix.Core
+	url = https://github.com/codenamelab/Matrix.Core.git
