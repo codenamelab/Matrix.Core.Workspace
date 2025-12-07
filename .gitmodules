@@ -1,3 +1,12 @@
 [submodule "Matrix.Core"]
 	path = Matrix.Core
 	url = https://github.com/codenamelab/Matrix.Core.git
+[submodule "Matrix.Core.Data"]
+	path = Matrix.Core.Data
+	url = https://github.com/codenamelab/Matrix.Core.Data.git
+[submodule "Matrix.Core.Models"]
+	path = Matrix.Core.Models
+	url = https://github.com/codenamelab/Matrix.Core.Models.git
+[submodule "Matrix.Core.Shared"]
+	path = Matrix.Core.Shared
+	url = https://github.com/codenamelab/Matrix.Core.Shared.git
